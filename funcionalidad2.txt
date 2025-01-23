@@ -1,1 +1,5 @@
 Funcionalidad 2
+[Rama2 dab9554] Añadir Funcionalidad 2.0
+ 1 file changed, 1 insertion(+)
+ create mode 100644 funcionalidad2.txt
+Continuacion funcionalidad 2
